@@ -12,5 +12,5 @@ quotechar='"'
 delimiter=','
 ~~~~
 
-Induced sample files are from: https://sample-videos.com/download-sample-csv.php 
+Included sample files are from: https://sample-videos.com/download-sample-csv.php 
 
