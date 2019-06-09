@@ -14,3 +14,5 @@ delimiter=','
 
 Included sample files are from: https://sample-videos.com/download-sample-csv.php 
 
+![Alt text](/screenshot.png?raw=true "Optional Title")
+
