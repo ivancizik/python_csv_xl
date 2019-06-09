@@ -1,6 +1,6 @@
 # CSV to Excel
 
-Sample script that finds *.csv files in specified folder and converts them to .xlsx files.  
+Sample Python script that finds *.csv files in specified folder and converts them to .xlsx files.  
 Script is using openpyxl.  
 
 By default script is using following parameters:
@@ -12,7 +12,6 @@ quotechar='"'
 delimiter=','
 ~~~~
 
-Included sample files are from: https://sample-videos.com/download-sample-csv.php 
 
-![Alt text](/screenshot.png?raw=true "Optional Title")
+![Alt text](/screenshot.png?raw=true)
 
