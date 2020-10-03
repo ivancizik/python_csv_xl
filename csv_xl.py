@@ -1,4 +1,4 @@
-# https://github.com/love2spooge/python_csv_xl
+# https://github.com/ivancizik/python_csv_xl
 # change cwd variable to change directory
 # change encoding='utf-8' to change encoding for .csv files
 # change quotechar='"' and delimiter=',' for quota characters and delimiter in .csv files
