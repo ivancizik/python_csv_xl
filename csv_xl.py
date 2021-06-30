@@ -15,7 +15,7 @@ from openpyxl.utils import get_column_letter
 # /// variables
 
 cwd = os.getcwd()
-cwd = str(cwd) + r"\sample files" # use this to specify other folder in script directory, comment code if files are in same folder as script
+cwd = str(cwd) + r"//sample files" # use this to specify other folder in script directory, comment code if files are in same folder as script
 os.chdir(cwd)
 
 list_of_files = []
